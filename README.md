@@ -40,11 +40,11 @@ Other styling options for the READEME documentation can be found here: [GitHub D
 
 ### Individual Pages
 
+Each of the pages listed above should be researched via the faculty and students of the Math and CS Department, or from the Mount's [Course Catalog](https://catalog.msmary.edu/index.php). The page must use the CSS files included in the repository so that the style matches the welcome.html page. Filenames must follow camel notation.
+
 ### SmallTalks
 
 small talks are events hosted by students and faculty to demonstrate a particular project or subject related to mathematics, computer science, or cybersecurity which they have researched. In order to present a small talk you only need to propse an idea for the small talk to Dr. Heinold and select an available time.
-
-Each of the pages listed above should be researched via the faculty and students of the Math and CS Department, or from the Mount's [Course Catalog](https://catalog.msmary.edu/index.php). The page must use the CSS files included in the repository so that the style matches the welcome.html page. Filenames must follow camel notation.
 
 ### Welcome Page
 
