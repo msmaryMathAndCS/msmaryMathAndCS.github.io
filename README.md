@@ -7,7 +7,7 @@ A repository for departmental information that students can contribute to. Pages
 
 * Coad Hubs 
 * Women in Computing Group 
-* Mount Programming Club 
+* [Mount Programming Club](#mount-programming-club)
 * Cyber Defense Club 
 * Students of Color in STEM club
 * Data Science Club 
@@ -51,6 +51,10 @@ When new pages are added to the repository, the welcome.html page must be update
 ### Welcome Page
 
 The index.html page is the landing page for this departmental website. Information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Also referenced is the [Visit Emmitsburg](https://visitemmitsburg.com) site.
+
+### Mount Programming Club
+
+The mpc.html page is the webpage dedicated to the Mount Programming Club, a club on campus that allows students to meet with one another and learn more about computer science as a community. Information was gather from Dr. Ruth Lamprecht, the club's factulty advisor, as well as several student participants and student leaders. The page is formatted in a very structured way, allowing viewers to learn more about the opportunities and activites hosted by the club throughout the academic year. The styling and formatting of the pages follows the [CSS Files](#css-files) documentation to show each heading clearly, followed by paragraphs and short lists to display important information. This page was created by @katiec2 & @Travis.
 
 ### CSS Files
 
