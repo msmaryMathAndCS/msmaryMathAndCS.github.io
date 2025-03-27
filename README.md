@@ -52,13 +52,13 @@ When new pages are added to the repository, the welcome.html page must be update
 
 The index.html page is the landing page for this departmental website. Information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Also referenced is the [Visit Emmitsburg](https://visitemmitsburg.com) site.
 
-### Mount Programming Club
-
-The mpc.html page is the webpage dedicated to the Mount Programming Club (MPC), a club on campus that allows students to meet with one another and learn more about computer science as a community. Information was gather from Dr. Ruth Lamprecht, the club's factulty advisor, as well as several student participants and student leaders. The page is formatted in a very structured way, allowing viewers to learn more about the opportunities and activites hosted by the club throughout the academic year. It discusses an overview of the program, who participates in the organization, how students are able to get involved, what type of events the club hosts, some notable facts, and what students should consider before joining MPC. The styling and formatting of the pages follows the [CSS Files](#css-files) documentation to show each heading clearly, followed by paragraphs and short lists to display important information. This page was created by @katiec2 & @Travis.
-
 ### CSS Files
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
+
+### Mount Programming Club
+
+The mpc.html page is the webpage dedicated to the Mount Programming Club (MPC), a club on campus that allows students to meet with one another and learn more about computer science as a community. Information was gather from Dr. Ruth Lamprecht, the club's factulty advisor, as well as several student participants and student leaders. The page is formatted in a very structured way, allowing viewers to learn more about the opportunities and activites hosted by the club throughout the academic year. It discusses an overview of the program, who participates in the organization, how students are able to get involved, what type of events the club hosts, some notable facts, and what students should consider before joining MPC. The styling and formatting of the pages follows the [CSS Files](#css-files) documentation to show each heading clearly, followed by paragraphs and short lists to display important information. This page was created by @katiec2 & @SwiftShot110.
 
 ## Usage
 
