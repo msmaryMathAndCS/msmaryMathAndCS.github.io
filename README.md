@@ -56,6 +56,40 @@ The index.html page is the landing page for this departmental website. Informati
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
 
+## Coad Hubs
+The Coad Hubs page provides information on the various collaborative spaces and student engagement opportunities within the Math and CS Department at Mount St. Mary's University. These hubs are designed to foster a supportive community for students to explore their academic interests, engage with faculty and peers, and participate in extracurricular activities related to the fields of Mathematics, Computer Science, and related disciplines.
+
+### Information Sources:
+Faculty Discussions: Insights were gathered from conversations with Dr. Lamprecht and other faculty members regarding the role of Coad Hubs in the department.
+
+### Departmental Website: 
+The official Math and CS Department website provided additional context about the hubs' purpose and historical development.
+
+### Student Feedback: 
+Testimonials and feedback from students who actively use the Coad Hubs contributed to the understanding of their practical impact and value.
+
+### Information Included:
+General Overview: A description of each hub within the Coad building, including its purpose and the types of activities it hosts (e.g., coding sessions, math discussions, group study, etc.).
+
+### Hub Activities:
+ A list of activities that regularly occur in the Coad Hubs, such as tutoring hours, student-led workshops, and informal study sessions.
+
+### Student Engagement:
+ Information about how students can get involved, including how to reserve space within the hubs for group projects or individual study.
+
+### Future Plans:
+ Plans for expanding or enhancing the Coad Hubs, including potential new resources, technological upgrades, or collaboration with other departments.
+
+### Information Excluded:
+Specific Schedules: Schedules for particular activities (like tutoring or workshops) were not included, as they may change each semester.
+
+### Individual Student Testimonials:
+ Personal anecdotes from students were not included for brevity, but general feedback was used to shape the content.
+
+### Styling and Formatting Choices:
+Two-Column Layout: A two-column format was chosen to clearly differentiate between the general description of the hubs and the activities offered. The left column is dedicated to the hub descriptions, while the right column lists current activities.
+
+
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
