@@ -56,6 +56,35 @@ The index.html page is the landing page for this departmental website. Informati
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
 
+### Data Science Major Topic
+
+Our page is about the Data Science Major here at Mount St. Mary's University. Our information was gathered from the university's catalog of majors, specifically the section on Data Science itself. This information was used to describe what the major itself is about and how it serves the student population and/or anyone that is interested in taking the major. We used most, if not all, of the information about the major that was offered by the university to put together our specific page and provide a detailed look into what the Data Science major has to offer here at the Mount.
+
+The initial "Who oversees the Data Science program" section, includes information such as who teaches what classes and who heads the major, such as the dean and other administrators. This information was gathered from the Department of Math and CS page offered by the university.
+
+"Who participates in Data Science Courses" includes the types of students that take the courses. These include data science majors, CS majors, and math majors, as outlined in this section of the page.
+
+"What should one expect" from a Data Science course outlines what content the courses are about and includes different examples of the course workloads.
+
+In order to outline data science post-college, the "What to expect after graduating as a Data Science major" section is next to show what can be done with the major. Applying a major after graduating from the university is one of the most important aspects.
+
+"Notable Facts" concludes the Data Science page with a few other notes about the major.
+
+All of these individual sections are followed with directions to sources.
+
+**References**
+* Mount Saint Mary's University, University Catalog
+Data Science, B.S.
+https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1680
+
+* Mount Saint Mary's University, University Catalog
+Department of Mathematics and Computer Science
+https://catalog.msmary.edu/preview_entity.php?catoid=18&ent_oid=329
+
+**Editors**
+
+Aidan Knecht and Javier Crevoisier
+
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
