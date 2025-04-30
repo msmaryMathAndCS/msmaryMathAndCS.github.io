@@ -53,7 +53,7 @@ When new pages are added to the repository, the welcome.html page must be update
 The index.html page is the landing page for this departmental website. Information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Also referenced is the [Visit Emmitsburg](https://visitemmitsburg.com) site.
 
 
-### Computer Science B.S. Major Web Page
+### Computer Science major 
 
 The **Computer Science B.S.** webpage is designed to provide prospective students with valuable information regarding the major, its academic requirements, and career prospects. We gathered credible insights from sources such as [MichiganTech.com](https://www.michigantech.com), [BestSchools.com](https://www.bestschools.com), and [Mount St. Mary's University's Computer Science Page](https://www.msmu.edu). Additionally, **Dr. Lamprecht** shared an interesting fact about a former professor who built a personal computer that Mount faculty still maintain today, adding a historical and practical perspective to the major.
 
