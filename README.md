@@ -101,7 +101,7 @@ The undergraduate degree program in mathematics is part of the School of Science
 
 Information on the Mathematics Minor offered at Mount Saint Mary's was accessed from the University's official website to showcase what doors this minor opens. https://msmary.edu/academics/majors-minors/mathematics.html
 
-**Documentation**
+**References**
 
 Information on the Computer Science, Cybersecurity, Data Science, and Mathematics Minors offered at Mount Saint Mary's was accessed from the University's official website to showcase what doors these minors open. (https://msmary.edu/academics/majors-minors/computer-science.html)
 (https://msmary.edu/academics/majors-minors/cybersecurity.html#minor)
