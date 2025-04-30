@@ -53,7 +53,7 @@ When new pages are added to the repository, the welcome.html page must be update
 The index.html page is the landing page for this departmental website. Information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Also referenced is the [Visit Emmitsburg](https://visitemmitsburg.com) site.
 
 
-### Data Science Club Page
+### Data Science Club
 
 The Data Science Club page provides an overview of the club at Mount St. Mary's University, offering students opportunities to enhance their data science skills, participate in competitions, and prepare for careers in the field.
 
