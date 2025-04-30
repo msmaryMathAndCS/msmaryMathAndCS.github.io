@@ -57,13 +57,13 @@ The index.html page is the landing page for this departmental website. Informati
 
 The Data Science Club page provides an overview of the club at Mount St. Mary's University, offering students opportunities to enhance their data science skills, participate in competitions, and prepare for careers in the field.
 
- _**Information Sources**_
+ **Information Sources**
 - Information was primarily gathered from the Mount St. Mary's University website, specifically the [Data Science Major page](https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1680&returnto=775) and the [Course Catalog](https://catalog.msmary.edu/index.php).
 - Faculty details were confirmed through direct communication with Dr. Jonathan McCurdy, Dr. Daniel Salinas Duron, and Dr. Nadun Kulasekera Mudiyanselage.
 
 - Additional resources and club activities (e.g., Kaggle competitions) were based on common practices in data science clubs and verified with student and faculty overview.
 
-_**Data Science HTML Page Content**_
+**Data Science HTML Page Content**
 - **Header:** Includes the club name, university name, and logo for branding consistency.
 - **Navigation:** Links to the home page and external Mount St. Mary's resources for easy access.
 - **Main Content:**
@@ -78,7 +78,7 @@ _**Data Science HTML Page Content**_
   - **Additional Considerations:** Recommends foundational knowledge (e.g., Data 200) and programming experience for full engagement.
 - **Footer:** Includes a copyright notice for 2025. 
 
-_**Design Choices**_
+**Design Choices**
 - The page follows the department’s official CSS to maintain a consistent style.
 - The page uses the repository’s `style.css` for consistency with the welcome page, ensuring uniform fonts, colors, and layout overall clubs web page designs.
 - A tri-column layout was chosen for the "Faculty Leaders" and "Resources" sections to optimize readability and space usage as part of general campus web page layout.
@@ -88,19 +88,20 @@ _**Design Choices**_
 - A floating "Top" button (`id="topBtn"`) linked to `floatingTopButton.js` improves navigation.
 - Meta tags provide SEO details (authors, description, keywords) in the HTML head.
 
-_**Club Purpose:**_ 
+**Club Purpose:**
 - Encourages learning and collaboration in data science through hands-on projects.
 - Prepares students for future employment with a strong resume.
 - Focuses on projects and concepts that align with job requirements and necessities.
 
-_**Web Page Section**_
-**_Leadership:_** 
+**Web Page Section**
+
+**Leadership:** 
 - Lists faculty advisors (Dr. McCurdy, Dr. Salinas Duron, Dr. Nadun). Note: Student leaders are not yet included in the HTML.
 
-**_How to Join:_**
+**How to Join:**
 - Instructions on how new students can participate via email or attending meetings.
 
-**_Resources:_** 
+**Resources:** 
 - Links to useful materials like datasets (e.g., Kaggle), Python tools, and R tools.
   
 
