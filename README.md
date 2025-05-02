@@ -48,6 +48,21 @@ When new pages are added to the repository, the welcome.html page must be update
 
 ## Page Documentations
 
+### Mathematics major
+
+**Process**
+We gathered our information from two sources, the first being the Overview for the Department of Mathematics and Computer Science (https://catalog.msmary.edu/content.php?catoid=14&navoid=593), and the second being the page giving information about the various classes a Mathematics major may expect to take throughout their years at the university (https://catalog.msmary.edu/preview_program.php?catoid=14&poid=1203&returnto=593). We decided that all the information we included in our site was important for someone looking to learn about the major to know. For the styling of our page we decided that we would present our information in a question and answer format. We started by asking an important question to give context about the major, then answering it in an informative manner so the reader learns all they need to know.
+
+**References**
+“University Catalog.” Department of Mathematics and Computer Science - Mount St. Mary’s University - Modern Campus CatalogTM, catalog.msmary.edu/preview_entity.php?catoid=14&ent_oid=255. Accessed 27 Mar. 2025. 
+
+“University Catalog.” Program: Mathematics, B.S. - Mount St. Mary’s University - Modern Campus CatalogTM, catalog.msmary.edu/preview_program.php?catoid=14&poid=1203&returnto=593. Accessed 27 Mar. 2025. 
+
+**Editors**
+@CodeBlueYellow
+@ethanvillaver
+
+
 ### Welcome Page
 
 The index.html page is the landing page for this departmental website. Information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Also referenced is the [Visit Emmitsburg](https://visitemmitsburg.com) site.
