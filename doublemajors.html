@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- copied from index.html to get page setup and links to CSS/scripts-->
+  <title>Double Majors @ MSMU</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Author" content="Dylan Smeak + Caoume Valle">
+  <meta name="description" content="Math & CS Dept website: Double Majors">
+  <meta name="keywords" content="mathematics, computer science, data science, cybersecurity">
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <script src="scripts/sidebar.js"></script>
+  <script src="scripts/floatingTopButton.js"></script>
+  <!--end of copy from index.html-->
+</head>
+
+<body>
+<!--header with the logo-->
+  <header>
+    <h1 class="pageTitle">Double Majors</h1>
+    <h2>Mathematics and Computer Science Department</h2>
+    <img src="images/MSM_logo.png" alt="Mount St Mary's logo" class="middleSmall">  
+  </header>
+<!-- navigation section LEFT SIDE-->
+<nav class="homeNav" id="mainNav">
+  <ul>
+    <li><a href="index.html" >Home</a></li>
+    <li><a href="faculty.html">Faculty</a></li>
+    <li><hr></li>
+    <li><a href="csmajor.html">Computer Science Major</a></li>
+    <li><a href="datamajor.html">Data Science Major</a></li>
+    <li><a href="cybermajor.html">Cybersecurity Major</a></li>
+    <li><a href="mathemajor.html">Mathematics Major</a></li>
+    <li><a href="doublemajors.html" class="active">Double Majors</a></li>
+    <li><a href="minors.html">Minors</a></li>
+    <li><hr></li>
+    <li><a href="coadhubs.html">Coad Hubs</a></li>
+    <li><a href="womenincomputing.html">Women in Computing Club</a></li>
+    <li><a href="cdc.html">Cyber Defense Club</a></li>
+    <li><a href="socs.html">Students of Color in STEM</a></li>
+    <li><a href="dataclub.html">Data Science Club</a></li>
+    <li><a href="womeninstem.html">Women in STEM Club</a></li>
+    <li><a href="mpc.html">MPC</a></li>
+    <li><hr></li>
+    <li><a href="smalltalks.html">SmallTalks</a></li>
+    <li><a href="invitedtalks.html">Invited Talks</a></li>
+    <li><a href="internships.html">Internships</a></li>
+    <li><a href="oncampusjobs.html">On-Campus Jobs</a></li>
+    <li><a href="gradschool.html">Graduate School</a></li>
+    <li><a href="whatsnu.html">What's Nu?</a></li>
+  </ul></nav>
+  <!--navigation to MSMU pages RIGHT SIDE-->
+  <aside class="rightsideButton">
+    <button onclick="openRightNav()">&#9776;</button>
+  </aside>
+  
+  <aside class="rightside" id="rightsideNav">
+    <button onclick="closeRightNav()">&times;</button>
+    <p>Mount St. Mary's University</p>
+    <ul>
+      <li><a href="https://msmary.edu/" target="_blank">MSM Home</a></li>
+      <li><a href="https://msmary.edu/academics/majors-minors/mathematics.html" target="_blank">MSM Mathematics</a></li>
+      <li><a href="https://msmary.edu/academics/majors-minors/computer-science.html" target="_blank">MSM Computer Science</a></li>
+      <li><a href="https://msmary.edu/academics/majors-minors/cybersecurity.html" target="_blank">MSM Cybersecurity</a></li>
+      <li><a href="https://msmary.edu/academics/majors-minors/data-science.html" target="_blank">MSM Data Science</a></li>
+    </ul>
+  </aside>
+  <!--green back to top button in bottom right-->
+  <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+  
+  <!--main section for content addition-->
+  <section class="mainContent">
+    <hr>
+    <h2 class="simpleHeading">Double Majors in the Math & CS Department</h2> <!--added styling to the heading-->
+    <p class="caption">Expand your academic horizons by combining two complementary disciplines</p>
+    <hr>
+  
+    <h3>About Double Majors</h3>
+    <p>Double majors allow students to study in two distinct fields that overlap for a more profound understanding of topics. 
+      These dual majors span across all of the Math and Science fields. 
+      Due to the connectedness of Mount's academic programs, students can complete these dual majors in the same timeframe as a regular degree.</p>
+    
+      <!--added links to each major-->
+    <h3>Available Combinations</h3>
+    <p>The following majors can be combined:</p> 
+    <ul>
+      <li><a href="https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1585">Mathematics</a></li>
+      <li><a href="https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1589">Cybersecurity</a></li>
+      <li><a href="https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1680">Data Science</a></li>
+      <li><a href="https://catalog.msmary.edu/preview_program.php?catoid=18&poid=1583">Computer Science</a></li>
+    </ul>
+    <p class="caption">Source: <a href="https://catalog.msmary.edu/content.php?catoid=18&navoid=778" target="_blank">MSMU Course Catalog</a></p>
+  
+    <h3>Program Oversight</h3>
+    <p>The double major programs are overseen by:</p>
+    <ul>
+      <li><strong>Dean of the School:</strong> Dr. Christine McCauslin (oversees the School of Science, Mathematics and Technology)</li>
+      <li><strong>Department Chair:</strong> Dr. Joenelle Hook (oversees Mathematics and Computer Science programs)</li>
+    </ul>
+    <p class="caption">Learn more about the <a href="https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html" target="_blank">School of Science, Mathematics & Technology</a></p>
+  
+    <h3>Benefits of Double Majoring</h3>
+    <ul>
+      <li>Complete 2-3 degrees in the same timeframe as a single degree</li>
+      <li>Develop enhanced problem-solving skills across multiple disciplines</li>
+      <li>Access to a vibrant academic community with diverse perspectives</li>
+      <li>More tailored career paths with broader job opportunities</li>
+      <li>Efficient credit overlap reduces overall workload</li>
+    </ul>
+  
+    <h3>How to Join</h3>
+    <p>Students can pursue a double major by:</p> 
+    <ol>
+      <li>Enrolling as a double major when first declaring</li>
+      <li>Adding a second major after consulting with your academic advisor</li>
+    </ol>
+
+    <h3>Most Common Double Majors</h3>
+    <p>Although there are more throughout the school, the most common double majors include:</p> 
+    <ol>
+      <li>Computer Science + CyberSecurity</li>
+      <li>Mathematics + Data Science</li>
+      <li>Mathematics + CyberSecurity</li>
+      <li>Data Science + CyberSecurity</li>
+    </ol>
+    <p>Since these areas coincide in many professions, learning any combination at The Mount is very beneficial for your professional career</p>
+   
+    <h3>Related Activities & Events</h3>
+    <div class="bicolumn">
+      <div>
+        <h4>SmallTalks</h4>
+        <p>30-minute to 1-hour presentations by students on research topics ranging from tarot card probability to HTML programming. Open to all campus members.</p>
+      </div>
+      <div>
+        <h4>Mount Programming Club</h4>
+        <p>A student club that meets to solve coding challenges, work on projects, and engage in friendly competitions.</p>
+      </div>
+      <div>
+        <h4>SPARC</h4>
+        <p>University-wide showcase where seniors present their year-long capstone projects to faculty and peers.</p>
+      </div>
+      <div>
+        <h4>Department Clubs</h4>
+        <p>Various student organizations that provide support and networking opportunities for STEM majors.</p>
+      </div>
+    </div>
+    <p class="caption">Check out clubs and events at the <a href="https://msmary.presence.io/" target="_blank">Mount P.E.A.K. Page</a></p> <!--added link to the club and events page-->
+  
+    <h3>Important Considerations</h3>
+    <ul>
+      <li>While efficient, double majors still require careful planning and time management</li>
+      <li>Participating in clubs and study groups enhances the academic experience</li>
+      <li>The Mount's supportive community ensures help is always available</li>
+    </ul>
+  
+    <hr>
+    <p class="caption">For more information, contact the Math & CS Department or visit the <a href="https://catalog.msmary.edu/" target="_blank">University Catalog</a></p>
+    <hr>
+  </section>
+
+  <footer>
+    <p> Copyright &copy; 2025</p>
+  </footer>
+</body>
+</html>
