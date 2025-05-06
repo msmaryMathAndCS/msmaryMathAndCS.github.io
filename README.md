@@ -5,7 +5,7 @@ A repository for departmental information that students can contribute to. Pages
 
 ## Pages Included
 
-* [Coad Hubs](#coad-hubs)
+* [Coad Hubs](#coad-hubs) - Editor: Sheldon T
 * [Women in Computing Group](#women-in-computing)
 * [Mount Programming Club](#mount-programming-club)
 * [Cyber Defense Club](#cyber-defense-club-readme) 
