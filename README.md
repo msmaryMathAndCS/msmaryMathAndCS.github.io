@@ -8,7 +8,7 @@ A repository for departmental information that students can contribute to. Pages
 * [Coad Hubs](#coad-hubs)
 * [Women in Computing Group](#women-in-computing)
 * [Mount Programming Club](#mount-programming-club)
-* [Cyber Defense Club](#cyber-defense-club-readme) 
+* [Cyber Defense Club](#cyber-defense-club) 
 * [Students of Color in STEM club](#students-of-color-in-stem)
 * [Data Science Club](#data-science-club-page)
 * [Women in STEM Club](#women-in-stem)
