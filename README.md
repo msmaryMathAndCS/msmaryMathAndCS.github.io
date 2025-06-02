@@ -71,6 +71,22 @@ The index.html page is the landing page for this departmental website. Informati
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
 
+### Mount Programming Club
+
+The mpc.html page is the webpage dedicated to the Mount Programming Club (MPC), a club on campus that allows students to meet with one another and learn more about computer science as a community. 
+
+**References** 
+
+Information that is featured on the page was gathered from a variety of sources. Mainly, the information listed was referenced by Dr. Ruth Lamprecht, the club's faculty advisor. Several student participants and leaders that are active within the club also provided key details and information to further advance the webpage.
+
+**Formating**
+
+The page is formatted in a very structured way, allowing viewers to learn more about the opportunities and activities hosted by the club throughout the academic year in a clear format that engages interest. It discusses an overview of the program, who participates and oversees the organization, how students can get involved, what events the club hosts, some notable facts, and what students should consider before joining MPC. The styling and formatting of the page follow the [CSS Files](#css-files) documentation to show each section heading clearly, followed by paragraphs and short lists to display important information, depending on what is displayed. 
+
+**Editors**
+* Katherine Corbo ([@katiec2](https://github.com/katiec2))  
+* Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
+
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
