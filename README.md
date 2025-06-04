@@ -5,7 +5,7 @@ A repository for departmental information that students can contribute to. Pages
 
 ## Pages Included
 
-* [Coad Hubs](#coad-hubs) - Editor: Sheldon T
+* [Coad Hubs](#coad-hubs)
 * [Women in Computing Group](#women-in-computing)
 * [Mount Programming Club](#mount-programming-club)
 * [Cyber Defense Club](#cyber-defense-club-readme) 
@@ -59,3 +59,5 @@ Version 1 of the website includes one stylesheet. Styles are defined and used on
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
+
+Editors: Sheldon Tang (@SheldonTSTANG)
