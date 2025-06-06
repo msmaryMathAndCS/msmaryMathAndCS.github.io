@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Cyber Defense Club @ MSMU</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Author" content="Brady Mills & Kaylib Sease">
+    <meta name="description" content="Project 2: Cyber Defense Club Webpage">
+    <meta name="keywords" content="cybersecurity, cyber-defense-club, cdc">
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="responsive.css">
+    <link rel="icon" href="images/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script src="scripts/sidebar.js"></script>
+    <script src="scripts/floatingTopButton.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1 class="pageTitle">Cyber Defense Club (CDC)</h1>
+        <h2>Mathematics and Computer Science Department</h2>
+        <img src="images/CDC_logo.png" alt="Cyber Defense Club logo" class="middleSmall">
+        <p>A student-led club for cybersecurity enthusiasts at Mount St. Mary's University.</p>
+    </header>
+
+    <nav class="homeNav" id="mainNav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="faculty.html">Faculty</a></li>
+          <li><hr></li>
+          <li><a href="csmajor.html">Computer Science Major</a></li>
+          <li><a href="datamajor.html">Data Science Major</a></li>
+          <li><a href="cybermajor.html">Cybersecurity Major</a></li>
+          <li><a href="mathemajor.html">Mathematics Major</a></li>
+          <li><a href="doublemajors.html">Double Majors</a></li>
+          <li><a href="minors.html">Minors</a></li>
+          <li><hr></li>
+          <li><a href="coadhubs.html">Coad Hubs</a></li>
+          <li><a href="womenincomputing.html">Women in Computing Club</a></li>
+          <li><a href="cdc.html" class="active">Cyber Defense Club</a></li>
+          <li><a href="socs.html">Students of Color in STEM</a></li>
+          <li><a href="dataclub.html">Data Science Club</a></li>
+          <li><a href="womeninstem.html">Women in STEM Club</a></li>
+          <li><a href="mpc.html">MPC</a></li>
+          <li><hr></li>
+          <li><a href="smalltalks.html">SmallTalks</a></li>
+          <li><a href="invitedtalks.html">Invited Talks</a></li>
+          <li><a href="internships.html">Internships</a></li>
+          <li><a href="oncampusjobs.html">On-Campus Jobs</a></li>
+          <li><a href="gradschool.html">Graduate School</a></li>
+          <li><a href="whatsnu.html">What's Nu?</a></li>
+        </ul></nav>
+
+      <aside class="rightsideButton">
+        <button onclick="openRightNav()">&#9776;</button>
+      </aside>
+      <aside class="rightside" id="rightsideNav">
+        <button onclick="closeRightNav()">&times;</button>
+        <p>Mount St. Mary's University</p>
+        <ul>
+          <li><a href="https://msmary.edu/" target="_blank">MSM Home</a></li>
+          <li><a href="https://msmary.edu/academics/majors-minors/mathematics.html" target="_blank">MSM Mathematics</a></li>
+          <li><a href="https://msmary.edu/academics/majors-minors/computer-science.html" target="_blank">MSM Computer Science</a></li>
+          <li><a href="https://msmary.edu/academics/majors-minors/cybersecurity.html" target="_blank">MSM Cybersecurity</a></li>
+          <li><a href="https://msmary.edu/academics/majors-minors/data-science.html" target="_blank">MSM Data Science</a></li>
+        </ul>
+      </aside>
+        
+      <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+
+      <hr>
+
+    <section id="purpose" class="mainContent">
+        <h2>What Is the Purpose of the Cyber Defense Club?</h2>
+        <p>The Cyber Defense Club (CDC) is a student-run club dedicated to fostering an innovative, fast-paced environment that promotes learning and shared knowledge of cybersecurity and related fields.</p>
+        <p>
+            The Cyber Defense Club is a place where students who are interested in cybersecurity can attend and learn about the field, participate in games/challenges, and make professional connections.
+            The CDC is a student run club designed to advocate for an innovative, fast-paced environment that promotes learning, and a shared knowledge of cybersecurity and the fields corresponding with it. 
+            In addition to promoting these ideals the club provides members with the opportunity to get involved with and exposed to the field, all while improving their cyber awareness and expertise. 
+            Members of the Cyber Defense Club attend cyber related events, conferences and competitions; and even host an event of their own where teams compete against each other to test their skills and abilities within a controlled environment.
+        </p>
+        <p class="caption">Source: <a href="https://msmary.presence.io/organization/cyber-defense-club" target="_blank">CDC Presence Page</a></p>
+    </section>
+
+    <hr>
+
+    <section id="leadership" class="mainContent">
+        <h2>Who Oversees the Club?</h2>
+        <p>The faculty advisors provide guidance, but the club is directed and managed through the student-led officers. In conjunction with the advisors and other department faculty, they plan and execute cyber related events, meetings, and competitions.</p>
+        <h3>Club Officer Positions</h3>
+        <ul>
+            <li><b>President:</b></li>
+            <li><b>Vice-President:</b></li>
+            <li><b>Secretary:</b></li>
+            <li><b>Treasurer:</b></li>
+            <li><b>Events Coordinator:</b></li>
+            <li><b>Faculty Advisor:</b></li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="participation" class="mainContent">
+        <h2>Who Can Participate?</h2>
+        <p>The CDC is open to all students, not just cybersecurity majors or minors. Anyone interested in learning about cybersecurity and improving their personal, family, or organizational cyber hygiene is welcome to join!</p>
+    </section>
+
+    <hr>
+
+    <section id="joining" class="mainContent">
+        <h2>How to Join?</h2>
+        <p>
+            Students can join events by monitoring CDC announcements on social media (<b>Instagram:</b> <a href="https://www.instagram.com/msmu_cyber/" target="_blank">msmu_cyber</a>) or through emails and announcments by professors. 
+            Attending a meeting or event is the best way to get started, no sign up required!
+        </p>
+        <p>For cybersecurity majors completing a capstone, participation in an <b>NCL (National Cyber League)</b> competition is <i>required</i>.</p>
+    </section>
+
+    <hr>
+
+    <section id="events" class="mainContent">
+        <h2>What Happens at a CDC Related Event?</h2>
+        <p>Events and meetings often include:</p>
+        <ul>
+            <li>Cyber-related games (e.g., Kahoots).</li>
+            <li>Group trips to major cybersecurity conferences. For example, the CDC took a group of female cyber students to the Technica UMD Conference/Hackathon directed towards women in STEM (one of the largest) in 2024.</li>
+            <li>Workshops led by industry professionals on cybersecurity tools and techniques.</li>
+            <li>Participation in national and regional competitions, including the National Cyber League and CCSC-E.</li>
+            <li>Guest speakers discussing cybersecurity careers, certifications, resume writing, and professional networking.</li>
+            <li>Capture the Flag (CTF) competitions to test and improve cyber skills. The CDC has also sponsored teams to travel for regional cyber competitions.</li>
+            <li>In conjunction with the capstone, but not a requirement, the CDC sponsors one or more teams to compete in the National Cyber League's regular competitions.</li>
+            <li>Inviting guest speakers to discuss topics such as certifications, work life, interviews, resume writing, and other career-related opportunities.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="notable-facts" class="mainContent">
+        <h2>Notable Facts</h2>
+        <ul>
+            <li>In 2024, two CDC students achieved <b>Diamond Status</b> (Top 500 competitors) in the NCL.</li>
+            <li>Open to all majors and provides a <b>PD point</b> per meeting attendance (5 pts max).</li>
+            <li>Skills learned in the club directly apply to real-world cybersecurity jobs – enhancing members potential value to employers.</li>
+            <li>Career-building activities are a regular component of the club and are often the driver for initial membership, with the other activities augmenting the club's perceived value proposition.</li>
+            <li>There are leadership opportunities that are part of being an officer that develops your leadership skills as well as helps to create a personal brand that assists in improving value to potential employers.</li>
+            <li>No specialized knowledge is required to participate, making it accessible to students from all backgrounds.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="what-else" class="mainContent">
+        <h2>What Else to Know before Considering Particiption?</h2>
+        <p>
+            As noted, specialized knowledge is not required to join or participate in any of the activities, including the NCL competitions. 
+            The club's activities and the skills to which the members are exposed will improve a member's personal cyber hygiene, making them safer when engaging with the online world. 
+            It is a club whose mission is very applicable in today's world, considering the frequency of attacks and the damage they do to business' when compromised.  
+            Furthermore, being a student-led organization means that the timing of events, meetings, and general activities is amenable to academic commitments.
+        </p>
+    </section>
+
+    <hr>
+
+    <section id="still-interested" class="mainContent">
+        <h2>Still Interested?</h2>
+        <p>Follow the CDC on social media for updates on meetings, events, and competitions. Attend a meeting or event to learn more about the club and meet other members.</p>
+        <p><b>Instagram:</b> <a href="https://www.instagram.com/msmu_cyber/" target="_blank">msmu_cyber</a></p>
+        <p>For more information, contact the club officers or faculty advisors.</p>
+        <p>Don't forget to check out the <a href="https://msmary.presence.io/organization/cyber-defense-club" target="_blank">Cyber Defense Club's official P.E.A.K Presence page!</a></p>
+    </section>
+</body>
+</html>
