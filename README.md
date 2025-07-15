@@ -56,6 +56,9 @@ The index.html page is the landing page for this departmental website. Informati
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
 
+### Faculty
+
+
 ### Computer Science major 
 
 The **Computer Science B.S.** webpage is designed to provide prospective students with valuable information regarding the major, its academic requirements, and career prospects. We gathered credible insights from sources such as [MichiganTech.com](https://www.michigantech.com), [BestSchools.com](https://www.bestschools.com), and [Mount St. Mary's University's Computer Science Page](https://www.msmu.edu). Additionally, **Dr. Lamprecht** shared an interesting fact about a former professor who built a personal computer that Mount faculty still maintain today, adding a historical and practical perspective to the major.
