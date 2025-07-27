@@ -178,6 +178,15 @@ _**Editors**_
 | [@EthanLane](https://github.com/EthanLane) | Web Page Development & Initial Content |
 | [@NabilAlimi](https://github.com/NabilAlimi) | Content Research & Formatting |
 
+### Faculty
+Sources for the information can be found in the Mount website and interviews from faculty. Each faculty member is outlined, with differences in their titles. All Professors are outlined in a list format, with information on what classes they teach as well as their areas of study; the order is as follows: Dean Dr. Christine McCauslin, Chair Dr. Jonelle Hook, Associate Professors, Assistant Professors, and Endowed Professor. The description for the faculty is on the next section, and further details are included at the bottom. Dr. Jonelle Hook (Associate Professor), Dr. Melanie Butler, and Dr. Brian Heinhold have their own pages, thus clicking on their names open up windows on further details about their profession and accomplishments.
+
+**Editors**
+| Contributor | Role |
+|-------------|------|
+| [@MarissaRochez](https://github.com/rissyrissa)
+| [@IfedapoAbiola](https://github.com/IfedapoA)
+
 ### Minors
 
 * [Computer Science](#Computer-Science)
