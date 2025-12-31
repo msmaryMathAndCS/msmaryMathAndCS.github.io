@@ -292,3 +292,24 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
+
+### Students of color in STEM club
+
+**Purpose**
+To inform and attract people to the Students of Color in STEM club. The information chosen was from a select group of questions to highlight the purpose and importance of the club the answers were given by a member of the club and how it benefits the Mount's student body and accepting culture of everyone.
+
+The information on the html page is used not only to inform but to advertise the club to anyone who is interested and willing to join. The Students of Color in STEM club was made to help people who may be undervalued have their STEM voice heard and amplified and engage in activities to help futher their carrer in STEM. The club is very impactful because it show's the Mount good character and how much they care about people who are underepresented in the STEM space.
+
+**How data was collected**
+How the information of the club is included in the club's page is we do a Q&A type of style where we present a question a lot of people may have about the club and show a detailed answer. Some specifics the page has is there are links to the Mount School of Science, Mathematics and Technology and at the bottom of the page I have information on who we got the answer's to our important questions from and a button to go to the top once you scroll all the way down.
+
+**Design**
+I put the school logo at the top of the webpage and above it I put the title of the club underneath the logo I put the Q&A style then underneath that I added information the source who we got the information from we choose this style because I felt like it was simple and easy to understand and very informative with the infromation included along with it being straight to the point.
+
+This page was created with the CSS and HTML files provided in the repoistory by Dr. Lamprecht and the formatting is essientally the same style for the rest of the pages in the repository.
+
+**Refrences**
+Malika Dosso of the Students of Color in STEM club.
+
+**Editors**
+Sishir Kanamala & Liam Burgoyne
