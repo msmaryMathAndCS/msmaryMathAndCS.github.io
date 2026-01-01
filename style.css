@@ -166,7 +166,7 @@ blog {
   margin: 10px 10px 10px 20px;
   font-size: 16px;
   border: none;
-  width: 250px;
+  /*width: 250px;*/
   text-align: center;
 }
 .blogAuthor {
@@ -178,18 +178,18 @@ blog {
 }
 .blogContent {
   background-color: #ffe7d8;
-  width: 600px;
+  /*width: 600px;*/
   padding: 10px;
   margin: 10px 10px 50px 20px;
 }
 img.blogImageR {
   float: right;
-  width: 250px;
+  /*width: 250px;*/
   padding: 10px;
 }
 img.blogImageL {
   float: left;
-  width: 250px;
+  /*width: 250px;*/
   padding: 10px;
 }
 .pastblogTitle {
@@ -198,20 +198,20 @@ img.blogImageL {
   padding: 5px;
   margin: 20px 20px 10px 20px;
   font-size: 14px;
-  width: 200px;
+  /*width: 200px;*/
   text-align: center;
   text-decoration: none;
   display: block;
 }
 .pastblogOverview {
   background-color: #f1f1f1;
-  width: 600px;
+  /*width: 600px;*/
   padding: 10px;
   margin: 10px 20px;
 }
 .pastblogContent {
   background-color: #f1f1f1;
-  width: 600px;
+  /*width: 600px;*/
   padding: 10px;
   margin: 10px 20px 20px 20px;
   display: none;
