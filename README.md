@@ -25,6 +25,7 @@ A repository for departmental information that students can contribute to. Pages
 * [On-Campus Jobs](#on-campus-jobs)
 * [Graduate Schools](#graduate-schools)
 * [What’s Nu? newsletter](#newsletter)
+* [CMSCI 277 Help Page](#cmsci-277-help-page)
 
 ## Directions for Updates
 
@@ -684,6 +685,56 @@ Contact information has been omitted due to privacy concerns.
 
 * Paris Lwin [@parislwin](https://github.com/parislwin)
 * Alyssa Matthews [@ALM2347](https://github.com/ALM2347)
+
+### CS 277 Help Page 
+
+The **CS 277 Help Page** webpage is designed to help students better understand concepts covered in CS 277: Computer Architecture. The page provides structured explanations of key topics such as data representation, CPU architecture, memory systems, and low-level programming concepts. The goal of this page is to break down complex material into more manageable sections while also providing additional resources for students who need further clarification. The information included is based on course material, class notes, and common areas where students typically struggle.
+
+**Structure and Content**
+
+We aimed to create a clear and organized learning resource by including the following sections:
+
+- **Topic Sections**: The page is divided into major topics such as data representation, CPU structure, memory, and programming concepts, each clearly labeled.
+- **Explanations**: Each section contains short explanations to simplify difficult ideas.
+- **External Resources**: Links to videos and websites are included to provide additional support.
+
+**Layout and Design**
+
+We implemented the following structure in our webpage:
+
+- **HTML Structure**: We used semantic HTML elements such as `<section>` to group related content, since each topic belongs to a larger category. Headings like `<h1>` and `<h2>` were used to clearly separate topics and create a hierarchy. Paragraph tags `<p>` were used for explanations, allowing the content to flow naturally and remain readable.
+
+- **Lists and Organization**: We used `<ul>` and `<li>` elements to organize topics and resources because they do not require a specific order. Nested lists were used to group related resources under each topic, improving readability and structure.
+
+- **Links and Resources**: Anchor tags `<a>` with `href` attributes were used to connect users to external resources such as YouTube videos and educational websites. These links are placed within lists so users can easily access them.
+
+- **JavaScript Features**: The page includes a sidebar navigation system implemented using JavaScript, which allows users to quickly move between sections. A “Back to Top” button was also added to improve navigation, especially for longer sections of content.
+
+- **CSS Styling**: The page uses the shared stylesheet from the repository to maintain consistency with other department pages. Styling focuses on spacing, alignment, and readability to ensure a clean and user-friendly layout.
+
+**Functionality and User Experience**
+
+The page is designed to be simple and easy to navigate so students can quickly find the help they need. The layout avoids unnecessary complexity and focuses on clarity. The sidebar navigation and top button improve usability, while the structured sections allow users to scan and understand information efficiently.
+
+**Key Takeaways**
+
+- The page simplifies complex CS 277 concepts using clear sections and explanations.
+- Semantic HTML elements improve structure and readability.
+- Lists and links organize resources in a user-friendly way.
+- JavaScript features enhance navigation and interaction.
+- The design is consistent, simple, and focused on usability.
+
+---
+
+**References**
+
+- CS 277 course materials and lecture notes  
+- External educational resources and tutorials linked within the page  
+
+**Creators**
+
+* Emma Celentano  
+* David Emediong
 
 ## Usage
 
