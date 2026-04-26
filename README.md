@@ -19,6 +19,7 @@ A repository for departmental information that students can contribute to. Pages
 * [Data Science Club](#data-science-club)
 * [Women in STEM Club](#women-in-stem)
 * [Mount Programming Club](#mount-programming-club)
+* [Association for Computing Machinery (ACM) Club](#acm-club)
 * [SmallTalks](#smalltalks)
 * [Invited Talks](#invited-talks)
 * [Internships](#internships) 
@@ -474,6 +475,31 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 **Editors**
 * Katherine Corbo ([@katiec2](https://github.com/katiec2))  
 * Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
+
+### ACM Club
+
+The acm.html page is the webpage made for the Association for Computing Machinery (ACM) Club, a campus organization that brings students together to learn about computing, share resources, and grow as a community.
+
+**Where we got the information for the page**
+
+The information for the page was obtained by first asking Prof. Weiss who to contact for more details about the ACM Club. We then reached out to the president of the ACM Club, who provided us with accurate information about the organization.
+
+**How this information is included in the page**
+
+The information is included in the page using clearly labeled sections with headings such as “Purpose,” “Group Overseer,” "Our Group Participants", "How to Join", “Club Meetings,” "Notable Facts", “What You Should Know Before Participating”, and "Contact Information". Each section has paragraphs that explain different aspects of the club.
+
+**Elements and/or other interactions the page has**
+
+The page includes several elements such as headings (h1, h2, h3), paragraphs, and an image (the MSM logo). In terms of interactions, users can click the email link to directly contact the club’s overseer.
+
+**References**
+
+Prof. Weiss (ACM Club Overseer)
+
+**Editors**
+
+* Dennis Truong - [@truongdennis563](https://github.com/truongdennis563)
+* Kushagra Bhatti - [@KushBhatti](https://github.com/KushBhatti)
 
 ### Smalltalks
 
