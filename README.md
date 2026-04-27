@@ -6,6 +6,7 @@ A repository for departmental information that students can contribute to. Pages
 ## Pages Included
 
 * [Faculty](#faculty)
+* [Honors Societies (PME and UPE)](#honors-societies)
 * [Computer Science major](#computer-science-major) 
 * [Data Science major](#data-science-major)
 * [Cybersecurity major](#cybersecurity-major) 
@@ -63,6 +64,22 @@ Sources for the information can be found in the Mount website and interviews fro
 
 * [@MarissaRochez](https://github.com/rissyrissa)  
 * [@IfedapoAbiola](https://github.com/IfedapoA) 
+
+### Honors Societies
+
+#### Pi Mu Epsilon and Upsilon Pi Epsilon
+
+**Research**
+
+We did our research by consulting previous induction invitations and contacting the current advisors of both honors societies (Dr. Hook and Professor Weiss). If the information is found to be out of date it would be best to contact them, however if they are no longer advising the societies, it would be best to ask the department chair who the chapter advisors are.
+
+**Sources**
+* Our primary souces of information were Dr. Hook (advisor of PME) and Proffesor Weiss (advisor of UPE) due to their direct connections to the Mount's chapter.
+
+**Creators**
+* Michael Cunningham[@MountMichael](https://github.com/MountMichael)
+* Matthew Dallas [@northkross](https://github.com/northkross)
+
 
 ### Computer Science major 
 
