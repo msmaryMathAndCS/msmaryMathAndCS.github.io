@@ -19,6 +19,7 @@ A repository for departmental information that students can contribute to. Pages
 * [Data Science Club](#data-science-club)
 * [Women in STEM Club](#women-in-stem)
 * [Mount Programming Club](#mount-programming-club)
+* [MAA/AWM Club](#maa-awm-club)
 * [SmallTalks](#smalltalks)
 * [Invited Talks](#invited-talks)
 * [Internships](#internships) 
@@ -474,6 +475,32 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 **Editors**
 * Katherine Corbo ([@katiec2](https://github.com/katiec2))  
 * Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
+
+### MAA AWM Club
+**Research**
+We conducted our own research going off of the questions given in the assignment. One of us contacted the president and vice president of the club and they were both kind enough to give information for each question. One of us did lots of online research on instagram, the organization page, the Mount directory, and some organization pages that will be listed in sources below.
+
+**Sources and References**
+- President of the MAA/AWM Club.
+- Vice president of the MAA/AWM Club.
+- Mathematical Association of America. [MAA About](https://maa.org/about/)
+- JSTOR MAA Publisher Page. [MAA JSTOR](https://www.jstor.org/publisher/maa)
+- Mount St. Mary’s University Directory. [Dr. Jonelle Hook](https://directory.msmary.edu/people/jonelle-hook.html)
+- MSMU AWM Instagram Page. [Mount AWM](https://www.instagram.com/mount_awm/)
+- MSMU AWM Organization Page. [MSM AWM](https://msmary.presence.io/organization/association-of-women-in-mathematics)
+
+**Styling and Display**
+We made the webpage used the style from the repository, along with another stylesheet for all the links so it was the same as in the repo. We added some JS elements, one being a sidebar, and the other being a floating button to bring the user to the top of the page.
+
+**Future Management**
+All of the information on the webpage is simple text, and should not be difficult to update. The JS will remain the same unless any future editors wish to add any more interactive elements.
+
+**Creators**
+* Adriel Hernandez Bonilla ([@adriel4life](https://github.com/adriel4life))
+* Francis Snyder ([@FrankMPSnyder](https://github.com/FrankMPSnyder))
+
+git config --global user.name "
+git config --global user.email "your.email@example.com"
 
 ### Smalltalks
 
