@@ -668,7 +668,7 @@ We were able to gather our research from Dr. Heinold and sift through the articl
 
 We thought that the best way to structure the page was to include a brief introduction to the page for visitors that haven't heard about the newsletter as well as some background information on how the newsletter came to be. Next, we made sure to include instructions on how students or staff can contribute to the newsletter if they were interested. We decided that it was important to separate this part from the rest so students could see this information right away. Next, we put examples of the articles you can find in the 2024 newsletter, followed by the footnote. 
 
-**Sources**
+**References**
 
 * Our primary source of information is Dr. Heinold, as he manages the newsletter.
 
