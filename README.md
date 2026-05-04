@@ -743,3 +743,38 @@ Our information on defining what the course was came from the CMSCI 125 page in 
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
+
+### Mount Math Madness
+
+**Overview**
+Mount Math Madness is a weekly problem-solving competition at Mount St. Mary's
+University that challenges students to think creatively and engage with
+mathematics in a fun, low-pressure environment.
+
+**Purpose**
+- Annual math and logic competition at Mount St. Mary's
+- Encourages problem-solving, creativity, and engagement with mathematics
+- Designed to be fun, flexible, and low-pressure
+
+**Competition Structure**
+- Runs for multiple weeks (typically four or five)
+- Each week includes a 100, 200, and 300 point problem
+- Submissions accepted until the following Sunday at 11:59 PM
+
+**Who Can Participate**
+- Open to all Mount students, no sign-up required
+- Faculty and staff may participate for bragging rights
+- Only current students are eligible for prizes
+- Contact: mmmpow@msmary.edu
+
+**Prizes**
+- Weekly winner: $20 Amazon gift card
+- Every 100 points = 1 entry into the weekly drawing
+- End of event tournament: 1st place $100, 2nd place $50
+
+**References**
+- Dr. Gerhart (faculty communication)
+- Previous years' Mount Math Madness emails
+
+**Editors**
+Quinn Taylor, Edward Kangethe
