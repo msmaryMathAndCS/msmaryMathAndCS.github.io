@@ -19,6 +19,7 @@ A repository for departmental information that students can contribute to. Pages
 * [Data Science Club](#data-science-club)
 * [Women in STEM Club](#women-in-stem)
 * [Mount Programming Club](#mount-programming-club)
+* [Association for Computing Machinery (ACM) Club](#acm-club)
 * [MAA/AWM Club](#maa-awm-club)
 * [SmallTalks](#smalltalks)
 * [Invited Talks](#invited-talks)
@@ -26,6 +27,7 @@ A repository for departmental information that students can contribute to. Pages
 * [On-Campus Jobs](#on-campus-jobs)
 * [Graduate Schools](#graduate-schools)
 * [What’s Nu? newsletter](#newsletter)
+* [Mount Math Madness](#Mount-Math-Madness)
 * [CMSCI 120 Help Page](#cmsci-120-help-page)
 * [CMSCI 125 Help Page](#cmsci-125-help-page)
 
@@ -478,6 +480,31 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 * Katherine Corbo ([@katiec2](https://github.com/katiec2))  
 * Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
 
+### ACM Club
+
+The acm.html page is the webpage made for the Association for Computing Machinery (ACM) Club, a campus organization that brings students together to learn about computing, share resources, and grow as a community.
+
+**Where we got the information for the page**
+
+The information for the page was obtained by first asking Prof. Weiss who to contact for more details about the ACM Club. We then reached out to the president of the ACM Club, who provided us with accurate information about the organization.
+
+**How this information is included in the page**
+
+The information is included in the page using clearly labeled sections with headings such as “Purpose,” “Group Overseer,” "Our Group Participants", "How to Join", “Club Meetings,” "Notable Facts", “What You Should Know Before Participating”, and "Contact Information". Each section has paragraphs that explain different aspects of the club.
+
+**Elements and/or other interactions the page has**
+
+The page includes several elements such as headings (h1, h2, h3), paragraphs, and an image (the MSM logo). In terms of interactions, users can click the email link to directly contact the club’s overseer.
+
+**References**
+
+Prof. Weiss (ACM Club Overseer)
+
+**Editors**
+
+* Dennis Truong - [@truongdennis563](https://github.com/truongdennis563)
+* Kushagra Bhatti - [@KushBhatti](https://github.com/KushBhatti)
+
 ### MAA AWM Club
 **Research**
 We conducted our own research going off of the questions given in the assignment. One of us contacted the president and vice president of the club and they were both kind enough to give information for each question. One of us did lots of online research on instagram, the organization page, the Mount directory, and some organization pages that will be listed in sources below.
@@ -714,7 +741,42 @@ Contact information has been omitted due to privacy concerns.
 * Paris Lwin [@parislwin](https://github.com/parislwin)
 * Alyssa Matthews [@ALM2347](https://github.com/ALM2347)
 
-### CSMSCI 120 Help Page
+### Mount Math Madness
+
+**Overview**
+Mount Math Madness is a weekly problem-solving competition at Mount St. Mary's
+University that challenges students to think creatively and engage with
+mathematics in a fun, low-pressure environment.
+
+**Purpose**
+- Annual math and logic competition at Mount St. Mary's
+- Encourages problem-solving, creativity, and engagement with mathematics
+- Designed to be fun, flexible, and low-pressure
+
+**Competition Structure**
+- Runs for multiple weeks (typically four or five)
+- Each week includes a 100, 200, and 300 point problem
+- Submissions accepted until the following Sunday at 11:59 PM
+
+**Who Can Participate**
+- Open to all Mount students, no sign-up required
+- Faculty and staff may participate for bragging rights
+- Only current students are eligible for prizes
+- Contact: mmmpow@msmary.edu
+
+**Prizes**
+- Weekly winner: $20 Amazon gift card
+- Every 100 points = 1 entry into the weekly drawing
+- End of event tournament: 1st place $100, 2nd place $50
+
+**References**
+- Dr. Gerhart (faculty communication)
+- Previous years' Mount Math Madness emails
+
+**Editors**
+Quinn Taylor, Edward Kangethe
+
+### CMSCI 120 Help Page
 
 **Purpose**
 The Purpose of the CS 120 Help Page is to give Students an idea of what to expect when taking the course and addressing a few questions they may have. We decided to tackle the questions of Computational Thinking, what an IDE is, some popular IDE choices, and what the process of debugging is, as well as debugging methods.
@@ -785,37 +847,3 @@ Our information on defining what the course was came from the CMSCI 125 page in 
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
 
-### Mount Math Madness
-
-**Overview**
-Mount Math Madness is a weekly problem-solving competition at Mount St. Mary's
-University that challenges students to think creatively and engage with
-mathematics in a fun, low-pressure environment.
-
-**Purpose**
-- Annual math and logic competition at Mount St. Mary's
-- Encourages problem-solving, creativity, and engagement with mathematics
-- Designed to be fun, flexible, and low-pressure
-
-**Competition Structure**
-- Runs for multiple weeks (typically four or five)
-- Each week includes a 100, 200, and 300 point problem
-- Submissions accepted until the following Sunday at 11:59 PM
-
-**Who Can Participate**
-- Open to all Mount students, no sign-up required
-- Faculty and staff may participate for bragging rights
-- Only current students are eligible for prizes
-- Contact: mmmpow@msmary.edu
-
-**Prizes**
-- Weekly winner: $20 Amazon gift card
-- Every 100 points = 1 entry into the weekly drawing
-- End of event tournament: 1st place $100, 2nd place $50
-
-**References**
-- Dr. Gerhart (faculty communication)
-- Previous years' Mount Math Madness emails
-
-**Editors**
-Quinn Taylor, Edward Kangethe
