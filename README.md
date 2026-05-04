@@ -26,6 +26,8 @@ A repository for departmental information that students can contribute to. Pages
 * [On-Campus Jobs](#on-campus-jobs)
 * [Graduate Schools](#graduate-schools)
 * [What’s Nu? newsletter](#newsletter)
+* [CMSCI 120 Help Page](#cmsci-120-help-page)
+* [CMSCI 125 Help Page](#cmsci-125-help-page)
 
 ## Directions for Updates
 
@@ -711,6 +713,45 @@ Contact information has been omitted due to privacy concerns.
 
 * Paris Lwin [@parislwin](https://github.com/parislwin)
 * Alyssa Matthews [@ALM2347](https://github.com/ALM2347)
+
+### CSMSCI 120 Help Page
+
+**Purpose**
+The Purpose of the CS 120 Help Page is to give Students an idea of what to expect when taking the course and addressing a few questions they may have. We decided to tackle the questions of Computational Thinking, what an IDE is, some popular IDE choices, and what the process of debugging is, as well as debugging methods.
+
+**Layout**
+We used the CSS Style format provided by Dr. Lamprecht to format the page with the following informational categories.
+* Intro to the Course
+* Thinking like a Computer Scientist
+* IDEs
+* Debugging
+* Outside the Class
+* Resources
+* Guides/Documentation
+* Hands On Practice
+* External Courses
+
+**References**
+* MSMU Course Catalog: https://catalog.msmary.edu
+* Personal Interview with Prof. Scott Weiss
+* Prof. Kevin Rittie's CMSCI 120 Slides Presentation he uses to teach class.
+* https://thonny.org/
+* https://code.visualstudio.com/
+* https://www.jetbrains.com/pycharm/
+* [python.org](https://www.python.org/)
+* https://automatetheboringstuff.com/
+* https://books.goalkicker.com/PythonBook/
+* https://www.youtube.com/watch?v=K5KVEU3aaeQ
+* https://leetcode.com/
+* https://www.hackerrank.com/
+* https://www.codewars.com/
+* https://openpython.org/
+* https://www.netacad.com/courses/python-essentials-1?courseLang=en-US
+* https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+**Editors**
+* Ethan McIntire: @InuM14 on Github: https://github.com/InuM14
+* Seth Eckert: @CobaltDude on Github: https://github.com/CobaltDude
 
 ### CMSCI 125 Help
 
