@@ -19,12 +19,17 @@ A repository for departmental information that students can contribute to. Pages
 * [Data Science Club](#data-science-club)
 * [Women in STEM Club](#women-in-stem)
 * [Mount Programming Club](#mount-programming-club)
+* [Association for Computing Machinery (ACM) Club](#acm-club)
+* [MAA/AWM Club](#maa-awm-club)
 * [SmallTalks](#smalltalks)
 * [Invited Talks](#invited-talks)
 * [Internships](#internships) 
 * [On-Campus Jobs](#on-campus-jobs)
 * [Graduate Schools](#graduate-schools)
 * [What’s Nu? newsletter](#newsletter)
+* [Mount Math Madness](#Mount-Math-Madness)
+* [CMSCI 120 Help Page](#cmsci-120-help-page)
+* [CMSCI 125 Help Page](#cmsci-125-help-page)
 * [CMSCI 254 Help Page](#cmsci-254-help-page)
 
 ## Directions for Updates
@@ -476,6 +481,57 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 * Katherine Corbo ([@katiec2](https://github.com/katiec2))  
 * Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
 
+### ACM Club
+
+The acm.html page is the webpage made for the Association for Computing Machinery (ACM) Club, a campus organization that brings students together to learn about computing, share resources, and grow as a community.
+
+**Where we got the information for the page**
+
+The information for the page was obtained by first asking Prof. Weiss who to contact for more details about the ACM Club. We then reached out to the president of the ACM Club, who provided us with accurate information about the organization.
+
+**How this information is included in the page**
+
+The information is included in the page using clearly labeled sections with headings such as “Purpose,” “Group Overseer,” "Our Group Participants", "How to Join", “Club Meetings,” "Notable Facts", “What You Should Know Before Participating”, and "Contact Information". Each section has paragraphs that explain different aspects of the club.
+
+**Elements and/or other interactions the page has**
+
+The page includes several elements such as headings (h1, h2, h3), paragraphs, and an image (the MSM logo). In terms of interactions, users can click the email link to directly contact the club’s overseer.
+
+**References**
+
+Prof. Weiss (ACM Club Overseer)
+
+**Editors**
+
+* Dennis Truong - [@truongdennis563](https://github.com/truongdennis563)
+* Kushagra Bhatti - [@KushBhatti](https://github.com/KushBhatti)
+
+### MAA AWM Club
+**Research**
+We conducted our own research going off of the questions given in the assignment. One of us contacted the president and vice president of the club and they were both kind enough to give information for each question. One of us did lots of online research on instagram, the organization page, the Mount directory, and some organization pages that will be listed in sources below.
+
+**Sources and References**
+- President of the MAA/AWM Club.
+- Vice president of the MAA/AWM Club.
+- Mathematical Association of America. [MAA About](https://maa.org/about/)
+- JSTOR MAA Publisher Page. [MAA JSTOR](https://www.jstor.org/publisher/maa)
+- Mount St. Mary’s University Directory. [Dr. Jonelle Hook](https://directory.msmary.edu/people/jonelle-hook.html)
+- MSMU AWM Instagram Page. [Mount AWM](https://www.instagram.com/mount_awm/)
+- MSMU AWM Organization Page. [MSM AWM](https://msmary.presence.io/organization/association-of-women-in-mathematics)
+
+**Styling and Display**
+We made the webpage used the style from the repository, along with another stylesheet for all the links so it was the same as in the repo. We added some JS elements, one being a sidebar, and the other being a floating button to bring the user to the top of the page.
+
+**Future Management**
+All of the information on the webpage is simple text, and should not be difficult to update. The JS will remain the same unless any future editors wish to add any more interactive elements.
+
+**Creators**
+* Adriel Hernandez Bonilla ([@adriel4life](https://github.com/adriel4life))
+* Francis Snyder ([@FrankMPSnyder](https://github.com/FrankMPSnyder))
+
+git config --global user.name "
+git config --global user.email "your.email@example.com"
+
 ### Smalltalks
 
 Smalltalks are a colloquium series started by Dr. Portier in 2008 and have since been a staple of the Computer Science, Mathematics, and Cybersecurity departments. Despite this, there are only three places where Smalltalks are briefly mentioned, Dr. Heinold's profile in the University directory, Brian Heinold's CV, and the Cybersecurity page on the Mount's website. These are an excellent way of getting experience with public speaking and performing independent research. This webpage will act as a way to better document information related to Smalltalks than currently available methods of learning about Smalltalks.
@@ -669,7 +725,7 @@ We were able to gather our research from Dr. Heinold and sift through the articl
 
 We thought that the best way to structure the page was to include a brief introduction to the page for visitors that haven't heard about the newsletter as well as some background information on how the newsletter came to be. Next, we made sure to include instructions on how students or staff can contribute to the newsletter if they were interested. We decided that it was important to separate this part from the rest so students could see this information right away. Next, we put examples of the articles you can find in the 2024 newsletter, followed by the footnote. 
 
-**Sources**
+**References**
 
 * Our primary source of information is Dr. Heinold, as he manages the newsletter.
 
@@ -685,6 +741,108 @@ Contact information has been omitted due to privacy concerns.
 
 * Paris Lwin [@parislwin](https://github.com/parislwin)
 * Alyssa Matthews [@ALM2347](https://github.com/ALM2347)
+
+### Mount Math Madness
+
+**Overview**
+Mount Math Madness is a weekly problem-solving competition at Mount St. Mary's
+University that challenges students to think creatively and engage with
+mathematics in a fun, low-pressure environment.
+
+**Purpose**
+- Annual math and logic competition at Mount St. Mary's
+- Encourages problem-solving, creativity, and engagement with mathematics
+- Designed to be fun, flexible, and low-pressure
+
+**Competition Structure**
+- Runs for multiple weeks (typically four or five)
+- Each week includes a 100, 200, and 300 point problem
+- Submissions accepted until the following Sunday at 11:59 PM
+
+**Who Can Participate**
+- Open to all Mount students, no sign-up required
+- Faculty and staff may participate for bragging rights
+- Only current students are eligible for prizes
+- Contact: mmmpow@msmary.edu
+
+**Prizes**
+- Weekly winner: $20 Amazon gift card
+- Every 100 points = 1 entry into the weekly drawing
+- End of event tournament: 1st place $100, 2nd place $50
+
+**References**
+- Dr. Gerhart (faculty communication)
+- Previous years' Mount Math Madness emails
+
+**Editors**
+Quinn Taylor, Edward Kangethe
+
+### CMSCI 120 Help Page
+
+**Purpose**
+The Purpose of the CS 120 Help Page is to give Students an idea of what to expect when taking the course and addressing a few questions they may have. We decided to tackle the questions of Computational Thinking, what an IDE is, some popular IDE choices, and what the process of debugging is, as well as debugging methods.
+
+**Layout**
+We used the CSS Style format provided by Dr. Lamprecht to format the page with the following informational categories.
+* Intro to the Course
+* Thinking like a Computer Scientist
+* IDEs
+* Debugging
+* Outside the Class
+* Resources
+* Guides/Documentation
+* Hands On Practice
+* External Courses
+
+**References**
+* MSMU Course Catalog: https://catalog.msmary.edu
+* Personal Interview with Prof. Scott Weiss
+* Prof. Kevin Rittie's CMSCI 120 Slides Presentation he uses to teach class.
+* https://thonny.org/
+* https://code.visualstudio.com/
+* https://www.jetbrains.com/pycharm/
+* [python.org](https://www.python.org/)
+* https://automatetheboringstuff.com/
+* https://books.goalkicker.com/PythonBook/
+* https://www.youtube.com/watch?v=K5KVEU3aaeQ
+* https://leetcode.com/
+* https://www.hackerrank.com/
+* https://www.codewars.com/
+* https://openpython.org/
+* https://www.netacad.com/courses/python-essentials-1?courseLang=en-US
+* https://pll.harvard.edu/course/cs50-introduction-computer-science
+
+**Editors**
+* Ethan McIntire: @InuM14 on Github: https://github.com/InuM14
+* Seth Eckert: @CobaltDude on Github: https://github.com/CobaltDude
+
+### CMSCI 125 Help
+
+This webpage serves to help students who may be struggling in CMSCI 125 that need additional help or may want a resource that helps prepare them for when they have to take the course!
+
+**Research**
+
+When researching, we interviewed the two professors who have taught CMSCI 125 in recent years, those being Dr. Lamprecht and Dr. Weiss. Most of the information on the webpage came from these two professors including the "Language and Tools" subsection, the "Online Resources" subsection, the "Skills to Gain" subsection, the "Real-World Applications" subsection, the "Why this Class Matters" subsection and the "Textbooks" subsection. Dr Weiss also provided us with the information We gathered the information for the "Where This Course Leads" subsection of the page. "What is CMSCI 125?" section from the catalog page of the Mount St. Mary's University website, specifically the catalog page for CMSCI 125.
+
+**Layout**
+
+When designing the webpage, we structured the it into 3 distinct sections. The first major section, titled "About this page", gives a brief overview of when and why the page was created. This was copied from the index.html page created by Dr. Lamprecht. The second major section is titled "What is CMSCI 125?" and it outline what the course is and explains that the page is designed to help students understand the course better. The third, and final, major section is titled "What to Expect in CMSCI 125". This section outlines various aspects of what is covered in the course through the use of various subsections with a final subsection that cites two online textbooks that students could use.
+
+**Included Information**
+
+The section titled "What is CMSCI 125?" includes information on what the course is and how it is a continuation of the first CMSCI introductory course, being CMSCI 120. This section also briefly mentions that the major difference between CMSCI 120 and CMSCI 125 is that CMSCI 125 puts emphasis and object-oriented coding. It also states that students in the class will learn about designing classes, inheritance, both input and output to files and various simple data structures. 
+
+The information included for tips on passing CMSCI 125 and expanded details on what is in the class are primarily in the section titled "What to Expect in CMSCI 125". First we outline the tools and languages that will be used in the class, stating that Java is entirely focused on while Python may be referenced by some instructors. We also say that Most professors teach students to use either Eclipse or VSCode as the primary IDE with some assignments potentially using an online tool like JDoodle. We then cover online resources that are reccommended if office-hours and the class textbook are not cutting it. These resources are W3Schools and GeeksForGeeks due to them being clear and concise. We also briefly mention the use of the online textbooks cited in the last section. The third subsection covers the skills that will be gained throughout the semester. We stated that by the end of the semester students will be able to write simple java programs, be able to write between 30 and 60 lines of code that are organized into classes and methods in order to solve problems, and have a strong foundation on object-oriented development. We also go over the real world applications of Java being an industry standard and the algorithmic thinking in the class being able to apply to general problem solving. We also go over why this class matters becuase the algorithmic thinking can be used for problem solving in any field and that understanding how computers intepret code can help explain why a program is or isn't working. Next we go over where the course leads, stating how CMSCI 125 is required for both the Computer Science and Cyberecurity majors and the Computer Science minor aong with how both CMSCI 254 (Data Structures and Algorithms) and CMSCI 256 (Principles of Software Devlopment) are the next classes students will typically take. Finally we list two online textbooks, as alluded to earlier, being "Think Java: How to Think Like a Computer Scientist" by Downey and Mayfield, and "A Quick Intro to Java" by Brian Heinold.
+
+**Sources**
+
+Our primary source of information came from our interviews with Dr. Lamprecht and Dr. Weiss.
+
+Our information on defining what the course was came from the CMSCI 125 page in the Mount St. Mary's University [course catalog](https://catalog.msmary.edu/preview_course_nopop.php?catoid=20&coid=24238).
+
+**Editors**
+* Andres De La O Zelaya (Github ID: @ADZelaya23)
+* Jack Caron (Github ID: @JackCar06)
 
 ### CMSCI 254 Help Page
 
@@ -725,3 +883,4 @@ The content in this webpage is sorted into a few different categories:
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
+
