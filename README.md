@@ -30,6 +30,7 @@ A repository for departmental information that students can contribute to. Pages
 * [Mount Math Madness](#Mount-Math-Madness)
 * [CMSCI 120 Help Page](#cmsci-120-help-page)
 * [CMSCI 125 Help Page](#cmsci-125-help-page)
+* [CMSCI 254 Help Page](#cmsci-254-help-page)
 
 ## Directions for Updates
 
@@ -842,6 +843,42 @@ Our information on defining what the course was came from the CMSCI 125 page in 
 **Editors**
 * Andres De La O Zelaya (Github ID: @ADZelaya23)
 * Jack Caron (Github ID: @JackCar06)
+
+### CMSCI 254 Help Page
+
+**Introduction**
+
+The point of this page is to provide students with a resource to reference with information related to the class, including what kind of information is covered in the class, who teaches it, and what they should expect when they sign up to take the course. In addition to this, the page has multiple other sections that include information regarding how to sign up for the course, some fun facts about Data Structures & Algorithms, and what students are expected to do and learn during class.
+
+**Research**
+
+A majority of our research regarding this topic came from the W3 schools course on Data Structures and Algorithms. They provide a comprehensive guide to all aspects of DSA, ranging from simple data structures like array lists to more complex structures like trees and graphs. In addition to this, we also referenced the Mount Saint Mary's catalogue for information regarding prerequisites, course fees, and a generic summary of the course. For our final online resource, we used happycoding.io to get some fun facts about the origins and progression of DSA over time. Apart from these online resources, we also reached out to Professor Scott Weiss for comments regarding professors that teach the course and some helpful words for students thinking about taking DSA.
+
+**Target Audience**
+
+The primary audience for this page is prospective Computer Science students looking to take Data Structures and Algorithms. However, students that have already taken DSA can also reference this site to refresh their memory on material and access different online resources for practice.
+
+**Content**
+
+The content in this webpage is sorted into a few different categories:
+
+- Professors
+- What to Expect
+- Notable Facts
+- Course Requirements
+
+**References**
+
+- GeeksforGeeks. “DSA Tutorial Learn Data Structures and Algorithms.” GeeksforGeeks, November 30, 2023. https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/.
+- Happy Coding. “A Brief History of Data Structures, Algorithms, and Tech Interviews,” August 6, 2023. https://happycoding.io/tutorials/interviewing/history.
+- Moser, Matthew, and Christohper Jacoboski. Letter to Scott Weiss. “Project Questions.” Email, March 20, 2026.
+- Mount St. Mary's University. “CMSCI 254 - Data Structures and Algorithms -.” Msmary.edu, 2018. https://catalog.msmary.edu/preview_course_nopop.php?catoid=20&coid=24240.
+- W3 Schools. “DSA Tutorial.” www.w3schools.com. Accessed March 23, 2026. https://www.w3schools.com/dsa/index.php.
+
+**Editors**
+
+* Matthew Moser(https://github.com/mattvmose)
+* Chris Jacoboski(https://github.com/Komical)
 
 ## Usage
 
