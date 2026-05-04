@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>CS 277 Help Page</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Author" content="Emma Celentano & David Emediong">
+<meta name="description" content="CMSCI 277 help page with course topics, prerequisites, and resources for the material.">
+<meta name="keywords" content="CMSCI 277, computer architecture, C programming, assembly language, course help, study resources, Mount St. Mary's University, computer science, cybersecurity">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" href="images/favicon.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+.sidebar-open .mainContent {
+  margin-right: 220px;
+}
+.sidebar-open header {
+  margin-right: 220px;
+}
+</style>
+
+<script src="scripts/sidebar.js"></script>
+<script src="scripts/floatingTopButton.js"></script>
+
+</head>
+
+<body>
+
+<header>
+  <h1 class="pageTitle">CMSCI 277: Computer Architecture - Help Page</h1>
+  <h2>Mount St. Mary's University</h2>
+  <img src="images/MSM_logo.png" alt="Mount St Mary's logo" class="middleSmall">  
+</header>
+
+<nav class="homeNav" id="mainNav">
+  <ul>
+    <li><a href="index.html" >Home</a></li>
+    <li><a href="faculty.html">Faculty</a></li>
+    <li><a href="upe-pme.html">UPE-PME Honor Societies</a></li>
+    <li><hr></li>
+    <li><a href="csmajor.html">Computer Science Major</a></li>
+    <li><a href="datamajor.html">Data Science Major</a></li>
+    <li><a href="cybermajor.html">Cybersecurity Major</a></li>
+    <li><a href="mathmajor.html">Mathematics Major</a></li>
+    <li><a href="doublemajors.html">Double Majors</a></li>
+    <li><a href="minors.html">Minors</a></li>
+    <li><hr></li>
+    <li><a href="coadhubs.html">Coad Hubs</a></li>
+    <li><a href="womenincomputing.html">Women in Computing Club</a></li>
+    <li><a href="cdc.html">Cyber Defense Club</a></li>
+    <li><a href="socs.html">Students of Color in STEM</a></li>
+    <li><a href="dataclub.html">Data Science Club</a></li>
+    <li><a href="womeninstem.html">Women in STEM Club</a></li>
+    <li><a href="mpc.html">MPC</a></li>
+    <li><a href="acm.html">ACM Club</a></li>
+    <li><a href="maa-awm.html">MAA-AWM Club</a></li>
+    <li><hr></li>
+    <li><a href="smalltalks.html">SmallTalks</a></li>
+    <li><a href="invitedtalks.html">Invited Talks</a></li>
+    <li><a href="internships.html">Internships</a></li>
+    <li><a href="oncampusjobs.html">On-Campus Jobs</a></li>
+    <li><a href="gradschool.html">Graduate School</a></li>
+    <li><a href="whatsnu.html">What's Nu?</a></li>
+    <li><a href="mmm.html">Mount Math Madness</a></li>
+    <li><a href="ctf.html">Capture The Flag Competitions</a></li>
+    <li><hr></li>
+    <li><a href="help120.html">CMSCI 120 Help</a></li>
+    <li><a href="help125.html">CMSCI 125 Help</a></li>
+    <li><a href="help254.html">CMSCI 254 Help</a></li>
+    <li><a href="help277.html" class="active">CMSCI 277 Help</a></li>
+  </ul></nav>
+<aside class="rightsideButton">
+  <button onclick="openRightNav()">&#9776;</button>
+</aside>
+<aside class="rightside" id="rightsideNav">
+  <button onclick="closeRightNav()">&times;</button>
+  <p>Mount St. Mary's University</p>
+  <ul>
+    <li><a href="https://msmary.edu/" target="_blank">MSM Home</a></li>
+    <li><a href="https://msmary.edu/academics/majors-minors/mathematics.html" target="_blank">MSM Mathematics</a></li>
+    <li><a href="https://msmary.edu/academics/majors-minors/computer-science.html" target="_blank">MSM Computer Science</a></li>
+    <li><a href="https://msmary.edu/academics/majors-minors/cybersecurity.html" target="_blank">MSM Cybersecurity</a></li>
+    <li><a href="https://msmary.edu/academics/majors-minors/data-science.html" target="_blank">MSM Data Science</a></li>
+  </ul>
+</aside>
+  
+<button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+
+<section class="mainContent">
+  <hr>
+
+    <h2> Course Description</h2>
+    <p>
+        This is an introduction to the architecture and organization of modern computer systems. Topics include processor design,
+        number system representation and computer arithmetic, input/output, memory systems, and threading. C and assembly language are covered.
+    </p>
+    <h3>Other Course Info</h3>
+    <p>
+        <strong>Course Credits:</strong> 3 <br>
+        <strong>Availability:</strong> Fall Only <br>
+        <strong>Prerequisites:</strong> CMSCI 120 Introduction to Computer Science I or Permission by Instructor <br>
+        <strong>Course Fee:</strong> $50 <br>
+        <strong>Required for:</strong> <br>
+        <ul>
+          <li>Computer Science Major</li>
+          <li>Cybersecurity Major</li>
+        </ul>
+        <strong>Optional for:</strong><br>
+        <ul>
+          <li>Computer Science Minor</li>
+          <li>Cybersecurity Minor</li>
+        </ul>
+
+        To register for this course, go to <a href="https://mymount.msmary.edu/ICS/Orientation/">MyMount</a> and add it to your course planning on the registration tab.
+        <hr>
+    </p>
+    <h2>Key Topics Covered + Resources</h2>
+    <p>
+      <ul>
+        <li><strong>Data Representation</strong>
+          <ul>
+            <li>(Binary, Character & Integer Data types, Floating Point Numbers)</li>
+            <li><a href="https://www.youtube.com/watch?v=v4O2cj3Oe0A&list=PLrjkTql3jnm8AcFgkc5TE_yQgeHEuKYrG">Youtube Playlist</a></li>
+            <li><a href="https://www.youtube.com/watch?v=8afbTaA-gOQ">IEEE 754 Floating Point Representation</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Digital Logic</strong>
+          <ul>
+            <li>(Logical Operations and Gates, Nandgame, Bitwise Operations) </li>
+            <li><a href="https://www.youtube.com/watch?v=INEtYZqtjTo">Understanding Logic Gates</a></li>
+            <li><a href="https://www.youtube.com/watch?v=ffPOA7UUDAs&t=210s"> Bitwise Operations & Bit Masking</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>The CPU</strong>
+          <ul>
+            <li>(Metric Prefixes, Assembly & Machine Language, Parts of a CPU)</li>
+            <li><a href="https://www.youtube.com/watch?v=GtVDTp826DE">CPU Architecture Explained</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Memory</strong>
+          <ul>
+            <li>(RAM, Registers, Cache)</li>
+            <li><a href="https://www.youtube.com/watch?v=TQCr9RV7twk">Memory & Storage</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>The Operating System</strong>
+          <ul>
+            <li>(Processes, Virtual Memory, OS Functions, Files)</li>
+            <li><a href="https://www.youtube.com/watch?v=weiR3_TRdSs">What is an Operating System</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Threads</strong>
+          <ul>
+            <li>(Locks, Threading in different Languages)</li>
+            <li><a href="https://www.youtube.com/watch?v=STEOavXqXkQ">Threading in Python</a></li>
+            <li><a href="https://www.youtube.com/watch?v=SztE5W41on4">Threading in Java</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>C Programming</strong>
+          <ul>
+            <li>(printf & scanf Functions, Strings, Pointers, Memory Allocation)</li>
+            <li><a href="https://www.youtube.com/watch?v=2ciUcosJFBc&list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe">C programming</a></li>
+          </ul>
+        </li>
+        <li>
+          <strong>Assembly Language</strong>
+          <ul>
+            <li>(x86, Reading Assembly, Arrays & Function calls, Writing Assembly)</li>
+            <li><a href="https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe">Intro to x86 Assembly</a></li>
+          </ul>
+        </li>
+      </ul>
+      
+    </p>
+    <hr>
+    <h2>Key Points of this Class (What you should take away)</h2>
+    <ul>
+      <li>How numbers and other data are represented in computer systems</li>
+      <li>How digital logic circuits can represent Boolean functions</li>
+      <li>How sequential circuits can be used to build CPUs</li>
+      <li>What assembly code looks like and how you can use it to write simple functions</li>
+      <li>How memory is managed in a computer system</li>
+    </ul>
+
+  
+    <hr>
+    <h2>Extra Study Material</h2>
+    <p>
+      <ul>
+        <li><a href="marie.js.org">marie.js.org</a></li>
+        <ul>
+          <li>An online simulator for simple assembly language</li>
+        </ul>
+        <li><a href="https://logic.ly/demo/">logic.ly</a></li>
+        <ul>
+          <li>Allows you to build digital circuits. Another option for this is <a href="https://nandgame.com/">NandGame</a>, which allows you to build a computer from scratch.</li>
+        </ul>
+        <li><a href="https://fiveable.me/introduction-computer-architecture">Fivable.me</a></li>
+        <ul>
+          <li>This website contains helpful notes on all architecture topics.</li>
+        </ul>
+      </ul>
+    </p>
+    <hr>
+    <h2>Coursework Help</h2>
+    <p>
+        Based on your professor for CMSCI 277, Find specific study material for your class if there is any:
+    </p>
+    <h3>Dr. Heinold</h3>
+    <p>
+        Access all notes <a href="https://www.brianheinold.net/cs277_notes.pdf">here.</a> <br>
+
+        Play NandGame <a href="https://nandgame.com/">here.</a> <br><br>
+
+        If you have any questions reach out to <a href="mailto:heinold@msmary.edu">Dr. Heinold</a>
+
+    </p>
+    <h3>Prof. Weiss</h3>
+    <p>
+      <a href="marie.js.org">marie.js.org</a> - Assembly language simulator<br> 
+      <a href="https://logic.ly/demo/">logic.ly</a> - Digital circuit builder<br><br>
+      If you have any questions reach out to <a href="mailto:sweiss@msmary.edu">Prof. Weiss</a>
+    </p>
+
+    <h3>Dr. Lamprecht</h3>
+    <p>
+      If you have any questions reach out to <a href="mailto:r.e.lamprecht@msmary.edu">Dr. L</a>
+    </p>
+    <hr>
+    <h2>What Else Should Students Know About This Course</h2>
+    <p>
+      Staying engaged and keeping up with assignments is key to succeeding in this class. Computer architecture introduces concepts that can seem abstract at first, so <strong>reviewing your notes regularly, practicing with examples, and asking questions</strong> will help everything click into place. <br>
+      Hands-on work, such as coding exercises and labs, is just as important as the lectures because it reinforces what you learn and helps you apply the material. Don’t forget to take advantage of <strong>office hours, this help page, and your classmates</strong> whenever you need clarification or extra support. Using all the resources available to you will make the course much more manageable and rewarding.
+    </p>
+
+</section>
+
+<footer>
+  <p> Copyright &copy; 2025</p>
+</footer>
+
+</body>
+</html>
