@@ -28,7 +28,8 @@ A repository for departmental information that students can contribute to. Pages
 * [On-Campus Jobs](#on-campus-jobs)
 * [Graduate Schools](#graduate-schools)
 * [What’s Nu? newsletter](#newsletter)
-* [Mount Math Madness](#Mount-Math-Madness)
+* [Mount Math Madness](#mount-math-madness)
+* [Capture the Flag Competition](#capture-the-flag-competition)
 * [CMSCI 120 Help Page](#cmsci-120-help-page)
 * [CMSCI 125 Help Page](#cmsci-125-help-page)
 * [CMSCI 254 Help Page](#cmsci-254-help-page)
@@ -72,6 +73,8 @@ Sources for the information can be found in the Mount website and interviews fro
 * [@MarissaRochez](https://github.com/rissyrissa)  
 * [@IfedapoAbiola](https://github.com/IfedapoA) 
 
+[back to top](#pages-included) 
+
 ### Honors Societies
 
 #### Pi Mu Epsilon and Upsilon Pi Epsilon
@@ -87,6 +90,7 @@ We did our research by consulting previous induction invitations and contacting 
 * Michael Cunningham[@MountMichael](https://github.com/MountMichael)
 * Matthew Dallas [@northkross](https://github.com/northkross)
 
+[back to top](#pages-included) 
 
 ### Computer Science major 
 
@@ -133,6 +137,8 @@ Our layout is intentionally minimalistic, focused on keeping the user experience
 * Manav Nair
 * Kingsley Ndukauba
 
+[back to top](#pages-included) 
+
 ### Data Science major
 
 Our page is about the Data Science major here at Mount St. Mary's University. Our information was gathered from the university's catalog of majors, specifically the section on Data Science itself. This information was used to describe what the major itself is about and how it serves the student population and/or anyone that is interested in taking the major. We used most, if not all, of the information about the major that was offered by the university to put together our specific page and provide a detailed look into what the Data Science major has to offer here at the Mount.
@@ -163,6 +169,8 @@ https://catalog.msmary.edu/preview_entity.php?catoid=18&ent_oid=329
 * Aidan Knecht
 * Javier Crevoisier
 
+[back to top](#pages-included) 
+
 ### Cybersecurity Major 
 
 The purpose of the activity and who participates in the major were included in the page as one paragraph outlining why a student should major in Cybersecurity, especially since people who want to learn these skills will be the people who major in Cybersecurity. The course catalog was incorporated as a hyperlink in the Resources section at the bottom of the page to give people a way to learn more about the major. Information on how to major in Cybersecurity was included as a brief paragraph. Information on who oversees the major was included by advising students to reach out to the department if interested in majoring in Cybersecurity or learning more about it. Regarding suggestions for optional features, these were excluded from the page as they were not necessary for the assignment. Most of the information was included on the page because it is relevant to what a prospective student would most need/want to know. Information about events related to the Cybersecurity major was included in our page so that prospective students would have a quick and easy overview of what credit hours they would need. The notable facts section was also included for the same reason as before, prospective students might like to know how devoted our cybersecurity department is to providing an excellent education. Prospective students might also like to know about where alumnus that have achieved the cybersecurity major from the Mount might end up. It was important to include that the Mount offers resources to connect with many cybersecurity-related positions. Specific courses necessary for the major were also included as bullets so students can see what kind of courses the major will teach.
@@ -186,6 +194,8 @@ Interactions with our page include all the features of the Home page as well as 
 * [@AnnabelleCode](https://github.com/AnnabelleCode)  
 * [@bkale4](https://github.com/bkale4) 
 
+[back to top](#pages-included) 
+
 ### Mathematics major
 
 **Process**
@@ -200,6 +210,8 @@ We gathered our information from two sources, the first being the Overview for t
 
 * [@CodeBlueYellow](https://github.com/CodeBlueYellow)  
 * [@ethanvillaver](https://github.com/ethanvillaver) 
+
+[back to top](#pages-included) 
 
 ### Double Majors
 The double major page is a list of the double major options available to students. Most of the information was gathered from the Mount's Course Catalog, the [School of Science, Mathematics & Technology](https://msmary.edu/academics/schools-divisions/school-of-science-mathematics-and-technology/index.html) webpage, and department faculty discussions. Clubs and organizations were gathered from the Mount's [P.E.A.K. page](https://msmary.presence.io/).  
@@ -230,6 +242,8 @@ The inclusion of images and/or diagrams may also be considered to enhance the vi
 
 * [@cowmee](https://github.com/cowmee)  
 * [@DMSmeak22](https://github.com/DMSmeak22)
+
+[back to top](#pages-included) 
 
 ### Minors
 
@@ -284,6 +298,8 @@ Information on the Computer Science, Cybersecurity, Data Science, and Mathematic
 * [@dannysalasj](https://github.com/dannysalasj)  
 * [@TSaldari](https://github.com/TSaldari)
 
+[back to top](#pages-included) 
+
 ### Coad Hubs
 The Coad Hubs page provides information on the various collaborative spaces and student engagement opportunities within the Math and CS Department at Mount St. Mary's University. These hubs are designed to foster a supportive community for students to explore their academic interests, engage with faculty and peers, and participate in extracurricular activities related to the fields of Mathematics, Computer Science, and related disciplines.
 
@@ -315,6 +331,8 @@ One of the main cordinators for the coad hubs is Dr. McCurdy, information is als
 * Sheldon Tang 
 * Nate Valentine
 
+[back to top](#pages-included) 
+
 ### Women in Computing 
 
 **How Information Was Gathered** 
@@ -345,6 +363,8 @@ We took styling from the home (index) page provided and applied it to our own we
 
 * Zara Ahmad – @ZHA-1204 
 * Corvin Schneidereith – @Moontail137
+
+[back to top](#pages-included) 
 
 ### Cyber Defense Club
 
@@ -383,6 +403,8 @@ Cyber Defense Club. (n.d.).
 * Brady Mills - [@bdmills220](https://github.com/bdmills220)
 * Kaylib Sease - [@ksease](https://github.com/ksease)
 
+[back to top](#pages-included) 
+
 ### Students of Color in STEM
 
 **Purpose**
@@ -404,6 +426,8 @@ Malika Dosso of the Students of Color in STEM club.
 **Editors**
 * Sishir Kanamala
 * Liam Burgoyne
+
+[back to top](#pages-included) 
 
 ### Data Science Club
 
@@ -466,6 +490,8 @@ The Data Science Club page provides an overview of the club at Mount St. Mary's 
 * [@EthanLane](https://github.com/EthanLane) | Web Page Development & Initial Content   
 * [@NabilAlimi](https://github.com/NabilAlimi) | Content Research & Formatting
 
+[back to top](#pages-included) 
+
 ### Women In STEM
 This specific subpage is about the Women in STEM Program presented at Mount St. Mary's University. This subpage provides various information about the program, such as the program's purpose, overseers, participation, how to join, what a typical Women In STEM activity consists of, and other facts about the program.
 
@@ -483,6 +509,8 @@ The information presented in this subpage is the purpose of Women in STEM, progr
 * Kalina Chang: @kalinachang364
 * Taylor Lewis: @tayquila 
 
+[back to top](#pages-included) 
+
 ### Mount Programming Club
 
 The mpc.html page is the webpage dedicated to the Mount Programming Club (MPC), a club on campus that allows students to meet with one another and learn more about computer science as a community. 
@@ -498,6 +526,8 @@ The page is formatted in a very structured way, allowing viewers to learn more a
 **Editors**
 * Katherine Corbo ([@katiec2](https://github.com/katiec2))  
 * Travis Cleveland ([@SwiftShot110](https://github.com/SwiftShot110))
+
+[back to top](#pages-included) 
 
 ### ACM Club
 
@@ -524,6 +554,8 @@ Prof. Weiss (ACM Club Overseer)
 * Dennis Truong - [@truongdennis563](https://github.com/truongdennis563)
 * Kushagra Bhatti - [@KushBhatti](https://github.com/KushBhatti)
 
+[back to top](#pages-included) 
+
 ### MAA AWM Club
 **Research**
 We conducted our own research going off of the questions given in the assignment. One of us contacted the president and vice president of the club and they were both kind enough to give information for each question. One of us did lots of online research on instagram, the organization page, the Mount directory, and some organization pages that will be listed in sources below.
@@ -547,8 +579,7 @@ All of the information on the webpage is simple text, and should not be difficul
 * Adriel Hernandez Bonilla ([@adriel4life](https://github.com/adriel4life))
 * Francis Snyder ([@FrankMPSnyder](https://github.com/FrankMPSnyder))
 
-git config --global user.name "
-git config --global user.email "your.email@example.com"
+[back to top](#pages-included) 
 
 ### Smalltalks
 
@@ -571,7 +602,10 @@ Heinold, Brian. “Curriculum Vitae (2024).” *Cv.Pdf*, 2024, https://www.brian
 Heinold, Brian. Personal Interview. 19 May, 2025
 
 **Creators**
-* Anonymous
+* Camron Wiles
+* Jacob Rigatuso
+
+[back to top](#pages-included) 
 
 ### Invited Talks
 
@@ -611,6 +645,8 @@ W3Docs. “How to Add an Anchor Link to Jump to a Specific Part of a Page.” W3
 **Editors**
 * Derek Olmedo 
 * Milo Alexander
+
+[back to top](#pages-included) 
 
 ### Internships
 
@@ -658,6 +694,8 @@ The primary purpose of this website is to:
 * Benny-Hardy Deha 
 * Joseph Thomas
 
+[back to top](#pages-included) 
+
 ### On-Campus Jobs
 
 Overview This webpage provides information on on-campus job opportunities for students majoring in **Computer Science, Cybersecurity, Data Science, and Mathematics** at Mount St. Mary’s University. 
@@ -692,6 +730,8 @@ Overview This webpage provides information on on-campus job opportunities for st
 
 **Development Process**
 The webpage was structured and developed by Kristy Ann Cam and Sam Bartholomew. He was responsible for structuring the original HTML document, while Kristy Ann Cam focused on integrating the CSS. The project initially started with a simple layout that included essential job-related information. It was then divided into sections to support easy navigation through a structured menu. The first draft included basic headers and paragraphs outlining the job listings and application process. Once the content was finalized, buttons and navigation bars were implemented to enhance usability. Styling was applied using a CSS file provided in the professor's GitHub repository to maintain consistency with other departmental web pages. 
+
+[back to top](#pages-included) 
 
 ### Graduate Schools
 
@@ -731,6 +771,8 @@ The page aims to provide:
 * Gabriel Pone
 * Taha Shah 
 
+[back to top](#pages-included) 
+
 ### Newsletter
 #### What's Nu?
 *The Math and CS Department’s very own newsletter!* 
@@ -759,6 +801,8 @@ Contact information has been omitted due to privacy concerns.
 
 * Paris Lwin [@parislwin](https://github.com/parislwin)
 * Alyssa Matthews [@ALM2347](https://github.com/ALM2347)
+
+[back to top](#pages-included) 
 
 ### Mount Math Madness
 
@@ -793,7 +837,45 @@ mathematics in a fun, low-pressure environment.
 - Previous years' Mount Math Madness emails
 
 **Editors**
-Quinn Taylor, Edward Kangethe
+- Quinn Taylor
+- Edward Kangethe
+
+[back to top](#pages-included) 
+
+### Capture the Flag Competition
+
+This page provides information about Capture the Flag (CTF) competitions and their role within the Math and Computer Science Department at Mount St. Mary’s University.
+
+**Information Sources**
+
+Information for this page was gathered from:
+- The Mount St. Mary’s University Cybersecurity program page
+- General cybersecurity resources such as CTFtime and picoCTF
+- Knowledge from coursework and class discussions
+
+**Purpose**
+
+The purpose of this page is to give students a clear and informative overview of Capture the Flag competitions and how they are relevant at Mount St. Mary’s University. The page was designed to answer key questions that prospective students may have, such as what CTF competitions are, who participates in them, how students can join, and what skills they can gain. The information included focuses on making the topic accessible to beginners while still highlighting the importance of CTF competitions in developing real-world cybersecurity skills. Overall, the goal of this page is to encourage student involvement and provide useful guidance for those interested in cybersecurity.
+
+**Design and Layout**
+
+The page follows the structure and styling of the repository’s index page by:
+- Using the provided CSS file (style.css)
+- Organizing content into clear sections using headers
+- Separating sections with horizontal rules for readability
+
+A simple and clean layout was chosen to make the information easy to navigate and understand.
+
+**Functionality**
+
+- External links (CTFtime, picoCTF) open in new tabs
+- Navigation bar allows users to return to the home page
+
+**Creators**
+- Daniel Onunkwo
+- Emnet Theodros
+
+[back to top](#pages-included) 
 
 ### CMSCI 120 Help Page
 
@@ -834,7 +916,9 @@ We used the CSS Style format provided by Dr. Lamprecht to format the page with t
 * Ethan McIntire: @InuM14 on Github: https://github.com/InuM14
 * Seth Eckert: @CobaltDude on Github: https://github.com/CobaltDude
 
-### CMSCI 125 Help
+[back to top](#pages-included) 
+
+### CMSCI 125 Help Page
 
 This webpage serves to help students who may be struggling in CMSCI 125 that need additional help or may want a resource that helps prepare them for when they have to take the course!
 
@@ -861,6 +945,8 @@ Our information on defining what the course was came from the CMSCI 125 page in 
 **Editors**
 * Andres De La O Zelaya (Github ID: @ADZelaya23)
 * Jack Caron (Github ID: @JackCar06)
+
+[back to top](#pages-included) 
 
 ### CMSCI 254 Help Page
 
@@ -895,8 +981,10 @@ The content in this webpage is sorted into a few different categories:
 
 **Editors**
 
-* Matthew Moser(https://github.com/mattvmose)
-* Chris Jacoboski(https://github.com/Komical)
+* Matthew Moser (https://github.com/mattvmose)
+* Chris Jacoboski (https://github.com/Komical)
+
+[back to top](#pages-included) 
 
 ### CMSCI 277 Help Page 
 
@@ -947,6 +1035,8 @@ The page is designed to be simple and easy to navigate so students can quickly f
 
 * Emma Celentano  
 * David Emediong
+
+[back to top](#pages-included) 
 
 ## Usage
 
